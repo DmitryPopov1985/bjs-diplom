@@ -6,7 +6,7 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
+        "RUB": 900,
         "USD": 20,
         "EUR": 20,
         "NTC": 3000
@@ -19,7 +19,7 @@
       "id": 2,
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
+        "RUB": 20030,
         "USD": 0,
         "EUR": 0,
         "NTC": 100
@@ -31,7 +31,7 @@
       "password": "demo",
       "id": 3,
       "balance": {
-        "RUB": 20000,
+        "RUB": 102,
         "USD": 300,
         "EUR": 500,
         "NTC": 50000
@@ -60,6 +60,138 @@
         "EUR": 600,
         "NTC": 90000
       }
+    },
+    {
+      "created_at": "2023-01-08T10:35:01.011Z",
+      "login": "1",
+      "password": "1",
+      "id": 6,
+      "balance": {
+        "RUB": 12916.407673860911,
+        "USD": 850,
+        "EUR": 0.6204709996087929,
+        "NTC": 166.53928732021114
+      }
+    },
+    {
+      "created_at": "2023-01-08T10:55:18.803Z",
+      "login": "mitjajwars@mail.ru",
+      "password": "12345678",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-01-08T10:56:06.129Z",
+      "login": "test@ru",
+      "password": "qwerty",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-01-08T10:56:23.377Z",
+      "login": "tesr@.ru",
+      "password": "qwerty",
+      "id": 9,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-01-08T10:56:58.334Z",
+      "login": "test@mail.ru",
+      "password": "1234567",
+      "id": 10,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-01-08T10:57:38.540Z",
+      "login": "test2@mail.ru",
+      "password": "12345",
+      "id": 11,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-01-08T11:07:10.388Z",
+      "login": "2",
+      "password": "2",
+      "id": 12,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-01-08T11:16:02.758Z",
+      "login": "4",
+      "password": "4",
+      "id": 13,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-01-08T11:16:17.385Z",
+      "login": "5",
+      "password": "5",
+      "id": 14,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-05-25T07:47:46.944Z",
+      "login": "55",
+      "password": "55",
+      "id": 15,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-05-25T07:49:38.458Z",
+      "login": "77",
+      "password": "77",
+      "id": 16,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
@@ -71,13 +203,15 @@
       "1": "Чувак, который должен 20к неткойнов",
       "3": "Партнёр по бизнесу"
     },
-    "3": {
-      "2": "Важный клиент"
-    },
+    "3": {},
     "5": {
       "1": "Важный пацан",
       "3": "Дедуля",
       "4": "Галя"
+    },
+    "6": {
+      "77": "77",
+      "78": "Сергей"
     }
   }
 }
